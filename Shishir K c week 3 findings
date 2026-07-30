@@ -1,0 +1,6 @@
+2.	Appavu, Narenthirakumar. “AI Deep Learning Methods for Segmenting 3D-Brain Tumors Images using U-Net.” In 2025 International Conference on Data Science, Agents & Artificial Intelligence (ICDSAAI), pp. 1–6. IEEE, 2025.
+
+
+2. Appavu (2025) – AI Deep Learning Methods for Segmenting 3D-Brain Tumors Images using U-Net
+
+This study investigates the application of the U-Net deep learning architecture for the segmentation of 3D brain tumor MRI images. The results indicate that U-Net achieves precise tumor segmentation, thereby assisting clinicians in enhancing diagnostic accuracy and treatment strategies. The approach involves the utilization of a deep learning model on medical imaging datasets. The research identifies gaps in the availability of varied datasets, model generalization, and computational expenses. It contributes by showcasing the efficacy of AI in the analysis of medical images and the detection of brain tumors.

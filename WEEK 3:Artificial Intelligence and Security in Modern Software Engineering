@@ -1,0 +1,94 @@
+Paper 1
+Large Language Models for Software Engineering: A Systematic Literature Review (Hou et al., 2024)
+
+
+This paper reviews how Large Language Models (LLMs), including ChatGPT and GitHub Copilot, are transforming software engineering. The authors analyse over one hundred research studies to understand the impact of LLMs across the software development lifecycle.
+
+Key Findings
+LLMs improve developer productivity by automating code generation.
+They assist with debugging, code summarisation, documentation, and software testing.
+AI tools reduce development time but still require human supervision.
+Model hallucination and inaccurate code remain significant challenges.
+Methodology
+Systematic Literature Review (SLR)
+Analysis of published software engineering studies
+Comparative evaluation of AI applications
+Contribution
+
+This paper provides an up-to-date overview of AI applications in software engineering and identifies future research directions.
+
+Paper 2
+Security in Cloud-Native Services: A Survey (Psomas et al., 2023)
+Overview
+
+This survey discusses security issues in cloud-native environments that use containers, Kubernetes, and microservices. It explains modern cloud architectures and common cyber threats.
+
+Key Findings
+Cloud-native applications improve scalability and flexibility.
+Containers introduce new security risks.
+Kubernetes requires strong authentication and access control.
+DevSecOps practices improve software security by integrating security into development.
+Methodology
+Survey of cloud security research
+Comparative analysis of existing cloud-native security solutions
+Review of container security frameworks
+Contribution
+
+The paper provides a strong theoretical foundation for cloud security and highlights best practices for securing modern cloud systems.
+
+Paper 3
+Vulnerabilities and Security Patches Detection in Open Source Software: A Survey (Lin et al., 2024)
+Overview
+
+This paper reviews techniques used to identify software vulnerabilities and security patches in open-source software. It focuses on machine learning, static analysis, and automated vulnerability detection.
+
+Key Findings
+Open-source software is widely used but vulnerable to security attacks.
+Machine learning improves vulnerability detection accuracy.
+Automated patch detection reduces response time.
+Existing tools still produce false positives and false negatives.
+Methodology
+Systematic survey
+Review of vulnerability detection techniques
+Comparison of machine learning models
+Contribution
+
+The paper identifies current challenges in software security and suggests future directions for automated vulnerability detection.
+
+Common Themes Across the Papers
+
+Several common themes emerge from these three studies:
+
+Artificial Intelligence is becoming increasingly important in software engineering.
+Automation improves software development efficiency.
+Security remains a major concern throughout the software lifecycle.
+Machine learning is widely used for code analysis and vulnerability detection.
+Human expertise is still essential because AI systems are not completely reliable.
+Key Findings and Methodologies
+Paper	Methodology	Major Findings
+Hou et al. (2024)	Systematic Literature Review	LLMs improve coding, testing, and documentation but require human verification.
+Psomas et al. (2023)	Survey	Cloud-native systems require stronger security mechanisms and DevSecOps practices.
+Lin et al. (2024)	Survey	Machine learning enhances vulnerability detection but existing methods still have limitations.
+Research Gaps and Unresolved Issues
+
+The papers identify several research gaps:
+
+AI-generated code may contain security vulnerabilities.
+LLMs sometimes generate incorrect or insecure code.
+Cloud-native security solutions need better automation.
+Vulnerability detection tools still struggle with accuracy.
+There is limited integration between AI-assisted coding and automated security testing.
+More real-world evaluations are required before AI can be fully trusted in software engineering.
+Contribution to the Research Topic
+
+Each paper contributes differently to understanding AI and software security.
+
+Hou et al. (2024) explains how AI is changing software development through Large Language Models.
+Psomas et al. (2023) provides foundational knowledge of cloud-native security and modern software deployment.
+Lin et al. (2024) focuses on protecting software by improving vulnerability detection using machine learning.
+
+Together, these papers provide a comprehensive understanding of modern software engineering by combining AI innovation, cloud security, and software vulnerability management. They demonstrate that while AI significantly improves software development efficiency, security remains a critical challenge requiring further research.
+
+Conclusion
+
+The selected papers provide a balanced literature review by covering recent advancements, foundational concepts, and ongoing challenges in software engineering. Artificial Intelligence, cloud-native technologies, and automated vulnerability detection are shaping the future of software development. However, improving AI reliability, strengthening cloud security, and reducing software vulnerabilities remain important research priorities.

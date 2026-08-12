@@ -1,0 +1,597 @@
+# Literature Review: Artificial Intelligence in Healthcare
+
+## 1. Research Topic
+
+**Artificial Intelligence in Healthcare**
+
+## 2. Research Question
+
+**How can artificial intelligence improve healthcare delivery and clinical decision-making while addressing challenges related to accuracy, explainability, privacy, fairness, and trust?**
+
+---
+
+## 3. Keywords for Literature Search
+
+The following keywords were identified for the literature search:
+
+- Artificial Intelligence (AI)
+- Machine Learning (ML)
+- Deep Learning
+- Healthcare
+- Health Care
+- Medical
+- Clinical
+- Medical Diagnosis
+- Clinical Decision Support
+- Patient Monitoring
+- Disease Prediction
+- Explainable AI (XAI)
+- Interpretability
+- Privacy
+- Security
+- Fairness
+- Bias
+- Trust
+- Healthcare Governance
+
+### Search Strings
+
+The following Boolean search strings were used in IEEE Xplore:
+
+1. `"artificial intelligence" AND healthcare`
+
+2. `("artificial intelligence" OR "machine learning" OR "deep learning") AND (healthcare OR medical OR clinical)`
+
+3. `("artificial intelligence" OR "machine learning") AND healthcare AND (diagnosis OR "clinical decision support")`
+
+4. `("artificial intelligence" OR "machine learning") AND healthcare AND ("explainable AI" OR XAI OR interpretability)`
+
+5. `("artificial intelligence" OR "machine learning") AND healthcare AND (privacy OR security OR fairness OR bias)`
+
+---
+
+# 4. Literature Search Strategy
+
+## Database
+
+The main academic database used for this literature review was **IEEE Xplore**.
+
+IEEE Xplore was selected because it contains a large collection of peer-reviewed research relating to artificial intelligence, machine learning, healthcare technology, biomedical engineering, health informatics and clinical applications.
+
+## Types of Literature
+
+The literature review included:
+
+- Peer-reviewed journal articles
+- Peer-reviewed conference papers
+- Systematic literature reviews
+- Scoping reviews
+- Review and survey papers
+- Empirical studies involving AI applications in healthcare
+
+## Inclusion Criteria
+
+Articles were included when they:
+
+- Were available through IEEE Xplore.
+- Were written in English.
+- Were relevant to artificial intelligence and healthcare.
+- Discussed AI, machine learning, deep learning or related technologies.
+- Addressed healthcare applications, benefits or challenges.
+- Contributed to answering the research question.
+- Were peer-reviewed academic publications.
+- Were primarily published between 2021 and 2026.
+
+## Exclusion Criteria
+
+Articles were excluded when they:
+
+- Were unrelated to healthcare.
+- Only mentioned AI without investigating its application.
+- Did not provide sufficient information about their research.
+- Were duplicate publications.
+- Were non-academic sources.
+- Focused only on technical computing issues without a healthcare application.
+
+---
+
+# 5. Selected Articles
+
+The following 10 articles were selected for detailed analysis:
+
+| No. | Article | Year | Main Focus |
+|---|---|---:|---|
+| 1 | Anand, Singh and Saurabh, "Study and Analysis of the Collaborative Approach of Artificial Intelligence and Medical in Effective Healthcare" | 2021 | AI applications in healthcare |
+| 2 | Shaban-Nejad et al., "Guest Editorial Explainable AI: Towards Fairness, Accountability, Transparency and Trust in Healthcare" | 2021 | Explainable and trustworthy AI |
+| 3 | Moreno-Sánchez, "Data-Driven Early Diagnosis of Chronic Kidney Disease: Development and Evaluation of an Explainable AI Model" | 2023 | Disease diagnosis and XAI |
+| 4 | Patra et al., "Recent Advances, Challenges, and Applications of Deep Learning in Healthcare Systems for Medical Diagnosis and Treatment" | 2023 | Deep learning |
+| 5 | Chakraborty et al., "An Explainable AI based Clinical Assistance Model for Identifying Patients with the Onset of Sepsis" | 2023 | Sepsis prediction |
+| 6 | Abououf et al., "Explainable AI for Event and Anomaly Detection and Classification in Healthcare Monitoring Systems" | 2024 | Healthcare monitoring |
+| 7 | Moghadam et al., "Impact of Artificial Intelligence in Nursing for Geriatric Clinical Care for Chronic Diseases: A Systematic Literature Review" | 2024 | AI in nursing |
+| 8 | Moudoud, Abou El Houda and Brik, "Advancing Privacy and Fairness in Healthcare Using Federated Edge Learning and Blockchain" | 2025 | Privacy and fairness |
+| 9 | Bose, Pal and Maity, "The Use of Interpretable AI Models in Breast Cancer Risk and Detection: A Scoping Review Approach" | 2025 | Explainable AI and cancer |
+| 10 | Marengo and Santamato, "A Novel Machine Learning-Optimized Framework for Systematic Analysis of Foundation Models in Healthcare" | 2025 | Foundation models and governance |
+
+---
+
+# 6. Literature Analysis
+
+## 6.1 Paper 1 – Anand, Singh and Saurabh (2021)
+
+### Purpose
+
+The paper investigates the use of artificial intelligence in healthcare and examines how AI and medical practices can work together.
+
+### Methodology
+
+The authors use a systematic review approach to examine existing research on AI and healthcare.
+
+### Key Findings
+
+The study identifies several potential applications of AI in healthcare, including diagnosis, prediction, data analysis and clinical decision support.
+
+### Contribution to Research Question
+
+This paper provides background evidence that AI can improve healthcare delivery by supporting healthcare professionals and processing large amounts of medical information.
+
+### Research Gap
+
+More research is required to determine how AI systems perform in real-world clinical environments and whether they improve patient outcomes.
+
+---
+
+## 6.2 Paper 2 – Shaban-Nejad et al. (2021)
+
+### Purpose
+
+The paper examines the importance of explainable AI in healthcare.
+
+### Methodology
+
+This paper provides a conceptual discussion of explainable and trustworthy AI.
+
+### Key Findings
+
+The authors emphasise four important principles:
+
+- Fairness
+- Accountability
+- Transparency
+- Trust
+
+### Contribution to Research Question
+
+The paper demonstrates that AI accuracy alone is not sufficient. Healthcare professionals need to understand and trust AI-generated recommendations.
+
+### Research Gap
+
+More empirical research is required to determine which explainability techniques are most useful to clinicians and patients.
+
+---
+
+## 6.3 Paper 3 – Moreno-Sánchez (2023)
+
+### Purpose
+
+The study investigates an explainable AI model for the early diagnosis of chronic kidney disease.
+
+### Methodology
+
+The researchers develop and evaluate a machine-learning model using healthcare data and incorporate explainability into the model.
+
+### Key Findings
+
+The study demonstrates the potential of AI to support early disease diagnosis while providing explanations for predictions.
+
+### Contribution to Research Question
+
+The paper provides evidence that AI can improve early diagnosis and clinical decision support.
+
+### Research Gap
+
+Further validation using different hospitals, datasets and patient populations is required.
+
+---
+
+## 6.4 Paper 4 – Patra et al. (2023)
+
+### Purpose
+
+The paper reviews recent developments and applications of deep learning in healthcare.
+
+### Methodology
+
+A review of existing deep-learning research was conducted.
+
+### Key Findings
+
+Deep learning can be used for medical diagnosis and treatment. However, challenges include:
+
+- Data quality
+- Privacy
+- Interpretability
+- Ethics
+- Regulation
+
+### Contribution to Research Question
+
+This paper demonstrates both the benefits and challenges of AI-based healthcare systems.
+
+### Research Gap
+
+More research is needed to move deep-learning models from experimental datasets into real clinical environments.
+
+---
+
+## 6.5 Paper 5 – Chakraborty et al. (2023)
+
+### Purpose
+
+The paper investigates an explainable AI system for identifying the onset of sepsis.
+
+### Methodology
+
+The researchers develop a machine-learning clinical assistance model and incorporate explainability.
+
+### Key Findings
+
+AI can potentially identify patients at risk of sepsis earlier and assist clinicians with decision-making.
+
+### Contribution to Research Question
+
+The study provides a practical example of AI supporting early clinical intervention.
+
+### Research Gap
+
+The effectiveness of the system needs to be evaluated in real clinical environments and through its impact on patient outcomes.
+
+---
+
+## 6.6 Paper 6 – Abououf et al. (2024)
+
+### Purpose
+
+The study investigates explainable AI for detecting events and anomalies in healthcare monitoring systems.
+
+### Methodology
+
+The researchers use an autoencoder-based approach and KernelSHAP for explainability.
+
+### Key Findings
+
+AI can identify abnormal healthcare events, while explainability can help users understand the model's predictions.
+
+### Contribution to Research Question
+
+This paper demonstrates the potential of AI for continuous patient monitoring and early identification of abnormal conditions.
+
+### Research Gap
+
+Further research should evaluate the system using real-time clinical data and determine whether clinicians find the explanations useful.
+
+---
+
+## 6.7 Paper 7 – Moghadam et al. (2024)
+
+### Purpose
+
+The paper examines the use of AI in nursing and geriatric care for chronic diseases.
+
+### Methodology
+
+The authors conduct a systematic literature review.
+
+### Key Findings
+
+AI can support nursing through patient monitoring, prediction and chronic disease management.
+
+### Contribution to Research Question
+
+This paper demonstrates that AI is not limited to medical diagnosis and can also support nursing and patient care.
+
+### Research Gap
+
+More research is needed into usability, clinical workflow integration and the effect of AI on nursing practice and patient outcomes.
+
+---
+
+## 6.8 Paper 8 – Moudoud, Abou El Houda and Brik (2025)
+
+### Purpose
+
+The paper investigates privacy and fairness in healthcare AI.
+
+### Methodology
+
+The researchers propose a framework combining federated learning, edge computing, blockchain, secure multiparty computation and fairness-aware learning.
+
+### Key Findings
+
+Privacy-preserving and fairness-aware approaches can potentially allow healthcare organisations to collaborate on AI without centrally sharing all sensitive patient information.
+
+### Contribution to Research Question
+
+This paper directly addresses the privacy and fairness challenges associated with healthcare AI.
+
+### Research Gap
+
+The computational cost, scalability and real-world deployment of these technologies require further investigation.
+
+---
+
+## 6.9 Paper 9 – Bose, Pal and Maity (2025)
+
+### Purpose
+
+The paper investigates interpretable AI models for breast cancer risk and detection.
+
+### Methodology
+
+The authors conduct a scoping review of existing research.
+
+### Key Findings
+
+Explainable AI is increasingly being used in breast cancer research. SHAP is one of the commonly used explainability techniques.
+
+### Contribution to Research Question
+
+The study demonstrates how interpretability can increase transparency in high-risk healthcare decisions.
+
+### Research Gap
+
+Future studies should determine whether AI explanations actually improve clinician decision-making and patient trust.
+
+---
+
+## 6.10 Paper 10 – Marengo and Santamato (2025)
+
+### Purpose
+
+The study investigates foundation models in healthcare and examines technical and governance issues.
+
+### Methodology
+
+The authors use systematic-review methods together with literature mining and topic-modelling techniques.
+
+### Key Findings
+
+The research identifies significant interest in technical performance, safety, bias and transparency. However, accountability and patient-centred considerations receive comparatively less attention.
+
+### Contribution to Research Question
+
+The study demonstrates that emerging healthcare AI requires governance and accountability in addition to technical performance.
+
+### Research Gap
+
+Further research is needed into:
+
+- AI safety
+- Hallucinations
+- Bias
+- Privacy
+- Accountability
+- Regulation
+- Patient-centred AI
+
+---
+
+# 7. Common Themes
+
+Several common themes were identified across the ten papers.
+
+## Theme 1: AI improves diagnosis and prediction
+
+AI and machine learning can analyse large amounts of medical information and identify patterns that can support early diagnosis and prediction.
+
+Examples include:
+
+- Chronic kidney disease
+- Sepsis
+- Breast cancer
+- Medical imaging
+- Chronic disease monitoring
+
+## Theme 2: AI supports healthcare professionals
+
+The literature generally presents AI as a tool that can assist healthcare professionals rather than completely replace them.
+
+AI can provide:
+
+- Risk predictions
+- Clinical alerts
+- Diagnostic assistance
+- Patient monitoring
+- Data analysis
+
+## Theme 3: Explainability and trust
+
+Several papers emphasise that healthcare AI must be understandable and transparent.
+
+Explainable AI can help clinicians understand why an AI system produced a particular prediction.
+
+## Theme 4: Privacy and security
+
+Healthcare data is highly sensitive. Therefore, AI systems need strong privacy and security protections.
+
+Federated learning is one approach that can allow models to learn from distributed data without requiring all patient data to be centrally collected.
+
+## Theme 5: Fairness and bias
+
+AI systems can reproduce biases contained in their training data.
+
+Therefore, healthcare AI needs to be evaluated across different patient populations to ensure that it does not disadvantage particular groups.
+
+## Theme 6: Governance and accountability
+
+As AI becomes more advanced, questions arise regarding who is responsible when an AI system makes an incorrect recommendation.
+
+Governance, regulation and accountability are therefore becoming increasingly important.
+
+---
+
+# 8. Key Findings
+
+The literature indicates that AI has significant potential to improve healthcare.
+
+The main benefits identified are:
+
+1. Earlier disease detection.
+2. Improved diagnostic support.
+3. Continuous patient monitoring.
+4. Faster analysis of medical data.
+5. Support for clinical decision-making.
+6. Improved healthcare efficiency.
+7. Support for nursing and chronic disease management.
+
+However, the benefits must be balanced against:
+
+1. Privacy risks.
+2. Security risks.
+3. Algorithmic bias.
+4. Lack of explainability.
+5. Lack of clinical validation.
+6. Lack of standardised regulation.
+7. Accountability issues.
+
+---
+
+# 9. Research Gaps
+
+The literature identifies several important research gaps.
+
+### 9.1 Real-world clinical validation
+
+Many AI models are evaluated using datasets rather than through large-scale clinical trials.
+
+### 9.2 Generalisability
+
+A model developed using data from one hospital may not perform equally well in another hospital or population.
+
+### 9.3 Explainability
+
+It remains unclear which explanation methods are most useful to clinicians.
+
+### 9.4 Bias and fairness
+
+More research is needed to ensure that AI performs fairly across different demographic groups.
+
+### 9.5 Privacy
+
+Privacy-preserving AI approaches need further testing for scalability and computational efficiency.
+
+### 9.6 Accountability
+
+Clear responsibility is required when AI systems contribute to incorrect healthcare decisions.
+
+### 9.7 Regulation
+
+AI technology is developing rapidly, creating challenges for healthcare regulation and governance.
+
+---
+
+# 10. Literature Review Outline
+
+The literature review will be organised into the following sections:
+
+1. Introduction
+2. Purpose and Aims
+3. Literature Review Process
+4. AI Applications in Healthcare
+5. Benefits of AI in Healthcare
+6. Explainable AI and Trust
+7. Privacy, Security and Fairness
+8. Challenges and Research Gaps
+9. Discussion
+10. Conclusion
+11. References
+
+---
+
+# 11. Introduction
+
+Artificial intelligence (AI) is becoming increasingly important in healthcare. Machine learning and deep learning technologies can process large amounts of healthcare data and support diagnosis, prediction, monitoring and clinical decision-making. These technologies have the potential to improve healthcare delivery by helping healthcare professionals identify diseases earlier, analyse medical information more efficiently and provide personalised support to patients.
+
+Research has demonstrated AI applications in areas including chronic kidney disease, sepsis detection, breast cancer, medical diagnosis, patient monitoring and nursing. These applications demonstrate that AI can provide valuable support across different areas of healthcare.
+
+However, the use of AI also introduces significant challenges. Healthcare data contains sensitive personal information, creating privacy and security concerns. AI models may also contain biases if they are trained using incomplete or unrepresentative datasets. Furthermore, complex AI models can be difficult for healthcare professionals to understand, creating concerns about explainability and trust.
+
+For these reasons, healthcare AI cannot be evaluated only on the basis of prediction accuracy. Issues such as fairness, transparency, privacy, accountability and clinical usefulness must also be considered.
+
+This literature review examines ten academic papers from IEEE Xplore to investigate the benefits and challenges of AI in healthcare. The review focuses particularly on AI applications, clinical decision-making, explainability, privacy, fairness and trust.
+
+---
+
+# 12. Purpose and Aims of the Literature Review
+
+The purpose of this literature review is to investigate how artificial intelligence can improve healthcare delivery and clinical decision-making.
+
+The aims are to:
+
+- Identify major applications of AI in healthcare.
+- Examine the benefits of AI for diagnosis and patient care.
+- Investigate the use of AI for clinical decision support.
+- Examine the importance of explainable AI.
+- Investigate privacy and security challenges.
+- Examine fairness and algorithmic bias.
+- Identify research gaps and unresolved issues.
+- Determine the requirements for responsible AI implementation in healthcare.
+
+---
+
+# 13. Literature Review Process
+
+IEEE Xplore was selected as the primary academic database because of its strong coverage of artificial intelligence, machine learning, healthcare technology, biomedical engineering and health informatics.
+
+The search began using broad keywords such as "artificial intelligence" and "healthcare". More specific Boolean searches were then used to identify research relating to diagnosis, clinical decision support, explainable AI, privacy, fairness and security.
+
+The literature was screened according to predefined inclusion and exclusion criteria. Priority was given to peer-reviewed academic publications that directly addressed AI applications or challenges in healthcare.
+
+Ten articles were selected for detailed analysis. Each paper was examined according to its purpose, methodology, key findings, contribution to the research question and identified research gaps.
+
+The selected literature was then compared to identify common themes and relationships between the findings.
+
+---
+
+# 14. Conclusion
+
+The literature reviewed demonstrates that artificial intelligence has significant potential to improve healthcare delivery and clinical decision-making. AI can support early diagnosis, disease prediction, patient monitoring, clinical decision support and nursing practice.
+
+Nevertheless, the successful implementation of AI requires more than high predictive accuracy. Privacy, security, fairness, explainability, trust and accountability are essential considerations.
+
+The literature also demonstrates that there are important gaps between experimental AI systems and their implementation in real healthcare environments. Future research should therefore focus on real-world clinical validation, generalisability, fairness, explainability, privacy-preserving AI and governance.
+
+Overall, AI has the potential to become an important component of modern healthcare, but it should be implemented as a responsible and human-centred technology that supports healthcare professionals and protects patients.
+
+---
+
+# 15. AI Use Disclosure
+
+Generative artificial intelligence (ChatGPT, OpenAI) was used to assist with brainstorming literature-search keywords, organising the literature review structure, summarising selected literature and improving the clarity of the written content.
+
+The original academic publications were used as the primary sources for the literature review. The author is responsible for verifying the accuracy of the information, interpretation, citations and final submitted work.
+
+---
+
+# 16. References
+
+[1] D. Anand, S. Singh, and S. Saurabh, "Study and Analysis of the Collaborative Approach of Artificial Intelligence and Medical in Effective Healthcare: A Systematic Review," 2021.
+
+[2] A. Shaban-Nejad, M. Michalowski, J. Brownstein, and D. Buckeridge, "Guest Editorial Explainable AI: Towards Fairness, Accountability, Transparency and Trust in Healthcare," IEEE Journal of Biomedical and Health Informatics, vol. 25, no. 7, pp. 2374–2375, 2021.
+
+[3] P. A. Moreno-Sánchez, "Data-Driven Early Diagnosis of Chronic Kidney Disease: Development and Evaluation of an Explainable AI Model," IEEE Access, vol. 11, pp. 38359–38369, 2023.
+
+[4] R. C. Patra et al., "Recent Advances, Challenges, and Applications of Deep Learning in Healthcare Systems for Medical Diagnosis and Treatment," 2023.
+
+[5] S. Chakraborty et al., "An Explainable AI based Clinical Assistance Model for Identifying Patients with the Onset of Sepsis," 2023.
+
+[6] M. Abououf et al., "Explainable AI for Event and Anomaly Detection and Classification in Healthcare Monitoring Systems," IEEE Internet of Things Journal, vol. 11, no. 2, pp. 3446–3457, 2024.
+
+[7] M. P. Moghadam et al., "Impact of Artificial Intelligence in Nursing for Geriatric Clinical Care for Chronic Diseases: A Systematic Literature Review," IEEE Access, vol. 12, pp. 122557–122587, 2024.
+
+[8] H. Moudoud, Z. Abou El Houda, and B. Brik, "Advancing Privacy and Fairness in Healthcare Using Federated Edge Learning and Blockchain," IEEE Internet of Things Journal, 2025.
+
+[9] N. Bose, D. Pal, and A. Maity, "The Use of Interpretable AI Models in Breast Cancer Risk and Detection: A Scoping Review Approach," 2025.
+
+[10] A. Marengo and V. Santamato, "A Novel Machine Learning-Optimized Framework for Systematic Analysis of Foundation Models in Healthcare," IEEE Access, 2025.
+
+[11] OpenAI, *ChatGPT*, AI language model, 2026. [Online]. Available: https://chatgpt.com/. Accessed: Aug. 12, 2026.

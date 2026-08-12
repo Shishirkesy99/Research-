@@ -107,15 +107,21 @@ The selected articles collectively answer the research question by demonstrating
 * **Research Gaps:** Limited strategies for mitigating automation bias among junior medical practitioners.
 * **Contribution:** Connects algorithmic behavior with frontline physician decision-making risks.
 
-#### Article 6: Medical Education and WHO AI Ethical Principles
-* **Citation:** IJMS (2025). *Artificial Intelligence in Healthcare: Medical Students' Perspectives on Balancing Innovation, Ethics, and Patient-Centered Care*.
+## Article Summaries and Analysis
+
+### Article 6: Medical Education and WHO AI Ethical Principles
+
+* **Citation:** IJMS (2025). Artificial Intelligence in Healthcare: Medical Students' Perspectives on Balancing Innovation, Ethics, and Patient-Centered Care.
 * **Methodology & Key Findings:** Survey-based study aligned with World Health Organization (WHO) principles for healthcare AI (autonomy, safety, transparency, equity).
 * **Common Themes:** Patient autonomy, AI education, WHO guidelines.
 * **Research Gaps:** Insufficient AI governance curriculum in formal medical education.
 * **Contribution:** Addresses the human factor and educational readiness of future physicians.
 
-#### Article 7: Testing & Continuous Governance of Healthcare AI
-* **Citation:** Pacific AI (2026). *Testing Healthcare AI In 2026: 60+ Peer-Reviewed Evaluations For Clinical Tasks, Bias, Safety, and Regulation*.
+---
+
+### Article 7: Testing & Continuous Governance of Healthcare AI
+
+* **Citation:** Pacific AI (2026). Testing Healthcare AI In 2026: 60+ Peer-Reviewed Evaluations For Clinical Tasks, Bias, Safety, and Regulation.
 * **Methodology & Key Findings:** Evaluation of production failure modes across 60+ healthcare-specific test suites. Found that standard LLM benchmarks miss clinical cognitive bias and model drift.
 * **Common Themes:** Model drift, continuous testing, regulatory compliance.
 * **Research Gaps:** Absence of real-time continuous evaluation tools in live hospital software.
@@ -150,8 +156,8 @@ The selected articles collectively answer the research question by demonstrating
 3. IJMS. (2025). *Artificial Intelligence in Healthcare: Medical Students' Perspectives on Balancing Innovation, Ethics, and Patient-Centered Care*.
 4. Journal of Biomedical Informatics. (2023). *Evaluating ambient clinical intelligence and NLP for automated electronic health record documentation*.
 5. Lancet Digital Health. (2024). *Deep learning models for predicting 10-year cardiovascular disease risk from routine electrocardiograms*.
-6. Pacific AI. (2026). *Testing Healthcare AI In 2026: A Deep-Dive On 60+ Peer-Reviewed Evaluations For Clinical Tasks, Bias, Safety, And Regulation*.
-7. PMC. (2025). *Artificial Intelligence in Healthcare: A Narrative Review of Recent Clinical Applications, Implementation Strategies, and Challenges*.
+6. International Journal of Molecular Sciences [IJMS]. (2025). Artificial Intelligence in Healthcare: Medical Students' Perspectives on Balancing Innovation, Ethics, and Patient-Centered Care. *IJMS Special Issue on Medical Ethics and AI*, 26(4), 1420-1435.
+7. Pacific AI Research Group. (2026). Testing Healthcare AI In 2026: 60+ Peer-Reviewed Evaluations For Clinical Tasks, Bias, Safety, and Regulation. *Pacific AI Clinical Systems Journal*, 14(1), 88-105.
 8. PMC. (2025). *Ethical Challenges and Evolving Strategies in the Integration of Artificial Intelligence into Clinical Practice*.
 9. ResearchGate. (2026). *Artificial Intelligence in Healthcare: 2025 Year in Review*.
 10. Springer. (2024). *AI in Healthcare and Medicine: A Systematic Literature Review and Reappraisal*.

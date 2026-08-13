@@ -43,7 +43,7 @@ To retrieve relevant academic literature, structured Boolean search queries were
   * Full-text articles available in English.
 * **Exclusion Criteria:**
   * Non-peer-reviewed pre-prints, opinion pieces, blogs, and non-human theoretical studies.
-  * Studies focusing strictly on non-medical robotic hardware or industrial automation.
+  * Studies focusing strictly on non-medical robotic hardware or industrial automation  .
 
 ---
 

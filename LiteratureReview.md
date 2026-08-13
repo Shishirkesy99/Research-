@@ -135,7 +135,7 @@ The selected articles collectively answer the research question by demonstrating
 * **Contribution:** Demonstrates AI's capacity for early preventive interventions in chronic disease management.
 
 #### Article 9: Natural Language Processing for Clinical Documentation in EHRs
-* **Citation:** Journal of Biomedical Informatics (2023). *Evaluating ambient clinical intelligence and NLP for automated electronic health record documentation*.
+* **Citation:** Journal of Biomedical Informatics (2023). *Evaluating ambient clinical inteblligence and NLP for automated electronic health record documentation*.
 * **Methodology & Key Findings:** Mixed-methods evaluation in an outpatient clinic measuring clinician documentation time before and after ambient AI deployment. Reduced documentation time by 45%.
 * **Common Themes:** NLP, Electronic Health Records, Clinician Burnout.
 * **Research Gaps:** High error rates when processing accented spoken English or unstructured audio.

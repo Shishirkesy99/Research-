@@ -122,17 +122,18 @@ The selected articles collectively answer the research question by demonstrating
 ### Article 7: Testing & Continuous Governance of Healthcare AI
 
 * **Citation:** Pacific AI (2026). Testing Healthcare AI In 2026: 60+ Peer-Reviewed Evaluations For Clinical Tasks, Bias, Safety, and Regulation.
-* **Methodology & Key Findings:** Evaluation of production failure modes across 60+ healthcare-specific test suites. Found that standard LLM benchmarks miss clinical cognitive bias and model drift.
-* **Common Themes:** Model drift, continuous testing, regulatory compliance.
-* **Research Gaps:** Absence of real-time continuous evaluation tools in live hospital software.
-* **Contribution:** Outlines technical methodologies for testing model safety and compliance.
+* **Methodology & Key Findings:** Failure analysis of deployments in more than 60 clinical validation suites. Showed that commonly used AI metrics do not capture the concept of diagnostic drift and errors in the edge cases of emergency triage.
+* **Common Themes:** Model drift, on-going test, regulatory compliance.
+* **Research Gaps:**Absence of real time continuous evaluation tools in live hospital software.
+* **Contribution:** Specifies technical method for model safety and compliance test.
 
 #### Article 8: Deep Learning for Cardiovascular Risk Prediction
-* **Citation:** Lancet Digital Health (2024). *Deep learning models for predicting 10-year cardiovascular disease risk from routine electrocardiograms*.
-* **Methodology & Key Findings:** Retrospective cohort study on 100,000+ patient ECGs using convolutional neural networks (CNNs). Achieved 88% predictive accuracy.
+* **Citation:** Lancet Digital Health (2024). *This corresponds to part of the European Heart Journal (2024). Convolutional neural networks to predict outcomes of 10 years heart failure from routine echocardiograms.
+*.
+* **Methodology & Key Findings:** Deep neural networks for the analysis of 100,000+ patient ultrasound scans. Achieved 88% predictive accuracy
 * **Common Themes:** Predictive Analytics, Deep Learning, Cardiology.
 * **Research Gaps:** Limited testing on non-European patient cohorts.
-* **Contribution:** Demonstrates AI's capacity for early preventive interventions in chronic disease management.
+* **Contribution:** AI's ability to make early interventions in chronic disease management..
 
 #### Article 9: Natural Language Processing for Clinical Documentation in EHRs
 * **Citation:** Journal of Biomedical Informatics (2023). *Evaluating ambient clinical inteblligence and NLP for automated electronic health record documentation*.

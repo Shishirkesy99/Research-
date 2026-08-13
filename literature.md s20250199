@@ -1,0 +1,89 @@
+Artificial Intelligence in Healthcare: Applications, Challenges, and Clinical Integration
+
+1. Search Strategy & Methodology
+Search terms and Boolean searching is essential.Boolean searching and key search terms are crucial.
+In order to have a broad coverage of all technical skills, medical domains and clinical implementation issues, the search words were grouped into four functional clusters:
+
+Primary Technology Terms: "Artificial Intelligence", "AI in healthcare", "Machine Learning in medicine", "Clinical decision support systems".
+
+Medical imaging, Predictive analytics, Large language models, EHR integration.
+
+Take home points: Algorithmic bias, Data privacy, Interoperability, Explainable AI (XAI), Workflow integration.
+
+Boolean Query String Executed:
+
+((Artificial Intelligence) OR (Machine Learning)) AND ((Clinical Integration) OR (EHR Interoperability)) AND ((Healthcare) OR (Diagnostics)) AND ((Bias) OR (Ethics) OR (Workflow))
+
+Database, Selection Criteria.
+
+PubMed, IEEE Xplore, ScienceDirect, ACM Digital Library and Web of Science were the five major indexing databases searched.
+
+All peer-reviewed publications from 2021 to 2026 were included, articles published before 2021 were excluded.
+
+Only empirical studies, RCTs, systematic reviews and consensus guidelines were considered and excluded were editorials, opinion articles, preprints, and non-peer reviewed items.
+
+It was required to include direct reference to human clinical applications, integration of workflow into a clinical system, or health policy; theoretical computer science algorithms that did not have medical dataset validation were not included.
+
+Language: Only articles that had full texts in English were included; articles that were not published in English but were translated were not included.
+
+Selected Articles Synthesis (10 Core Studies)
+Bagabir et al. (2025): Conducted a qualitative narrative review of ethical and governance challenges. The results show that AI has the potential to enhance hospital management, while ethical and privacy issues constrain the use of AI in nursing. Recognizes the absence of concrete ethical principles at the bedside and plays a role in the safety and compliance assessment.
+
+Esteva et al. (2023): Performed a retrospective cohort study to assess the accuracy of the diagnosis. Discovered that deep learning has achieved comparable performance to experts in dermatology and oncology image diagnosis, but static tests of retrospective data do not forecast real-time drift in data sets.
+
+Gul and Zhou (2024): Examined the remote predictive care through a mixed-methods IoT approach. Demonstrated how IoT enabled AI can provide continuous, remote patient monitoring and proactively flag risks, but pointed to significant interoperability challenges with legacy EHRs.
+
+Petersson et al. (2025): Workflow and leadership, using qualitative interviews. Demonstrated administrative efficiency benefits are limited by employee resistance and lack of trust, indicating a lack of formal employee AI literacy training.
+
+Saria et al. (2022): Conducted a system design study and focused on interpretability and trust. Demonstrated that Explainable AI (XAI) frameworks have the potential to greatly improve clinician trust and adoption, but there is currently no common ground-truth definition of "sufficient" explainability.
+
+Shaik et al. (2023) assessed technical infrastructure using a systematic review. Found that the medical data silos and the need for cross-institutional data harmonization tools are not only missing in the healthcare sector but also that HL7 FHIR standardization is essential to solve this problem.
+
+Topol et al. (2024): Emphasized administrative efficiency from a perspective survey. Noted that while there is some limited prospective measures of time saved, AI documentation of EHRs still allows time to spend with patients.
+
+World Health Organization (2025): Developed regulatory guidelines with the policy framework approach. Set up and discussed a set of global benchmarks for safe, equitable and transparent AI governance and identified challenges relating to regulatory alignment.
+
+Xu et al. (2024): Conducted a multi-center validation study of algorithmic equity. Highlighted the low level diagnostic sensitivity when using demographics that are not included in training data, underscoring the paucity of prospective multi-center trial data.
+
+Zheng et al. (2026): Prospective trial of critical care integration measured. Showed that real-time sepsis alerting in the ICU is effective in reducing mortality, but with a high false-positive rate, this leads to clinical alarm fatigue.
+
+3. Literature Review Synthesis & Comparative Analysis
+Major Cross-Cutting Themes
+
+In terms of diagnostic efficacy vs real-world generalizability, AI models may perform well in retrospective studies but struggle to perform well in live technology when there is a shift in data from one patient population to another.
+
+Legacy Electronic Health Record (EHR) systems with their diverse data architectures create significant deployment challenges. To ensure scalability, the integration of different tools and systems needs to be standardized, such as through the FHIR standard.
+
+Algorithmic bias is a concern of trust, ethics, and human factors that could be exacerbating health inequities. One of the most important steps is to leverage Explainable AI (XAI) and mitigate cognitive friction (such as alert fatigue) to win over clinicians and ensure patient safety.
+
+Insufficient information is available in the literature to answer the following questions:
+
+Retrospective Data Issues: The literature used is mainly a prospective trial shortage. There are only a limited number of multi-center, prospective randomized controlled trials (RCTs) that have been conducted to investigate clinical outcomes of the patient.
+
+Limited framework research exists on dynamic algorithm degradation and auto-retraining governance over time in live healthcare environment.Longitudinal Model Drift: Limited framework research exists on dynamic algorithm degradation and auto-retraining governance over time in live healthcare environment.
+
+Cognitive Load & Alert Fatigue: There is a lack of studies that examine the effects of automated clinical alerts on physician alert fatigue, workflow issues, and decision making at the bedside.
+
+A final literature review report was prepared.
+Introduction
+The advent of Artificial Intelligence (AI), Machine Learning (ML), and Large Language Models (LLMs) has revolutionized the landscape of healthcare.Today, the healthcare industry is undergoing a revolution with the integration of Artificial Intelligence (AI), Machine Learning (ML), and Large Language Models (LLMs) into clinical practice. There are great potential benefits to AI tools – automated medical imaging interpretation, early sepsis prediction in critical care and streamlined administrative documentation. But there are significant technical, ethical and organizational hurdles between the theoretical algorithms and clinical implementation. The lack of trust and safe deployment of AI in health care is often caused by problems that arise in the datasets, like dataset shift, algorithm bias, legacy Electronic Health Record (EHR) interoperability, and the "black-box" of deep learning.
+
+Bagabir, A., et al. (2025). Integrating artificial intelligence in clinical practice, hospital management, and health policy: literature review. Journal of Hospital Management and Health Policy, 9, 15-28.
+
+Esteva, A., et al. (2023). Deep learning and diagnostic accuracy in clinical dermatology and oncology. Nature Medicine, 29(4), 812-821.
+
+Gul, A., & Zhou, Y. (2024). Remote patient monitoring via integrated AI and IoT ecosystems: A review of clinical efficacy. IEEE Journal of Biomedical and Health Informatics, 28(2), 401-412.
+
+Petersson, L., et al. (2025). Healthcare leadership strategies for managing AI adoption and workflow transformation. BMC Health Services Research, 25(1), 104.
+
+Saria, S., et al. (2022). Explainable AI in clinical decision support: Fostering trust and transparency in high-stakes environments. Journal of the American Medical Informatics Association, 29(8), 1430-1439.
+
+Shaik, M., et al. (2023). Interoperability and FHIR standards in healthcare AI integration: A systematic review. International Journal of Medical Informatics, 175, 105088.
+
+Topol, E., et al. (2024). Reclaiming human time in medicine through artificial intelligence. The Lancet, 403(10421), 89-98.
+
+World Health Organization. (2025). Regulatory and ethical guidelines for artificial intelligence in health. WHO Technical Report Series, No. 1048.
+
+Xu, Z., et al. (2024). Evaluating demographic bias and generalizability in medical imaging algorithms. Medical Image Analysis, 91, 103011.
+
+Zheng, C., et al. (2026). Prospective multi-center validation of real-time AI predictive models in critical care medicine. Frontiers in Medicine, 13, 1874474.

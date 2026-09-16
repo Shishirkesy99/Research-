@@ -116,6 +116,12 @@ The survey consists of 8 questions: 7 close-ended (quantitative) questions and 1
 
 ## 5. Ethical Considerations
 
+Several ethical considerations will be taken into account when conducting and distributing the survey. Participation will be voluntary, and participants will be informed about the purpose of the research before completing the survey. Participants will not be pressured to participate and will have the option to stop completing the survey at any time.
+
+The survey will avoid collecting unnecessary personal or sensitive information. Responses will be kept anonymous where possible, and participants will not be required to provide identifying information such as their name or contact details. The information collected will only be used for the purposes of this research project and will not be shared with unauthorized individuals.
+
+The research group will also ensure that participants' responses are stored securely and accessed only by authorized group members. Survey questions will be written respectfully and will avoid offensive, discriminatory, or unnecessarily sensitive content. These measures will help protect participants' privacy, maintain confidentiality, and ensure that the research is conducted responsibly.
+
 Several ethical considerations were addressed in the design and administration of this survey:
 
 1. **Informed Consent:** Participants are informed of the survey's purpose, estimated duration, and voluntary nature before beginning. Proceeding with the survey constitutes informed consent.
